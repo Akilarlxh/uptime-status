@@ -2,15 +2,15 @@
 window.Config = {
 
   // 站点名
-  SiteName: '陈YFの服务器状态',
+  SiteName: '糖果屋运营站',
 
   // 站点链接
-  SiteUrl: '/',
+  SiteUrl: 'https://status.akilar.top',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'ur787669-6ddf3a15e1ac21a76a43088c',
+    'ur1041484-ff1e3aeb57c4836bb871130c',
   ],
 
   // 是否显示监测站点的链接
@@ -24,12 +24,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'SSLstatus',
-      url: 'https://ssl.cyfan.top/'
+      text: '网站监控',
+      url: 'https://status.akilar.top/'
     },
     {
-      text: 'Blog',
-      url: 'https://blog.cyfan.top'
+      text: '博客主页',
+      url: 'https://blog.akilar.top'
     }
   ]
 };
