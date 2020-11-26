@@ -8344,7 +8344,7 @@
       }, i.name, n && o.a.createElement(l, {
         className: "link",
         to: i.url,
-        text: '🍭🍫🍬'
+        text: '<=💠=>'
       }))), o.a.createElement("div", {
         className: "status ".concat(i.status)
       }, {
