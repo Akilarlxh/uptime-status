@@ -8341,11 +8341,11 @@
         className: "info"
       }, o.a.createElement("span", {
         className: "name"
-      }, i.name), n && o.a.createElement(l, {
+      }, i.name, n && o.a.createElement(l, {
         className: "link",
         to: i.url,
-        text: i.name
-      })), o.a.createElement("div", {
+        text: '🍭🍫🍬'
+      }))), o.a.createElement("div", {
         className: "status ".concat(i.status)
       }, {
         ok: "\u6b63\u5e38",
